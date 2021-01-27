@@ -1,0 +1,1 @@
+content of file file_10.txt
